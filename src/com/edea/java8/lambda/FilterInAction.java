@@ -1,4 +1,4 @@
-package com.edea.java8;
+package com.edea.java8.lambda;
 
 public class FilterInAction {
 	
